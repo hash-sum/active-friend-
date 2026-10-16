@@ -82,8 +82,8 @@ flowchart TD
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```powershell
-git clone https://github.com/<your-username>/hacktober-fest-projects.git
-cd hacktober-fest-projects
+git clone https://github.com/hash-sum/active-friend-.git
+cd active-friend-
 pip install -r requirements.txt
 ```
 
